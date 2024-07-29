@@ -45,7 +45,7 @@ include('includes/dbconnection.php');
 		<li class="breadcrumb-item">
 			<a href="index.php">Home</a>
 		</li>
-		<li class="breadcrumb-item active">About Us</li>
+		<li class="breadcrumb-item active">About </li>
 	</ol>
 	<!-- banner-text -->
 	<!-- contact -->
